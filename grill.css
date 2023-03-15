@@ -1,0 +1,12 @@
+.grid-main {
+    display: grid;
+   
+    grid-template-areas:
+      "fruits transports";
+  
+  
+    grid-template-columns: 300px 100px;
+    grid-template-rows: 400px;
+    gap: 5px;
+  }
+  
